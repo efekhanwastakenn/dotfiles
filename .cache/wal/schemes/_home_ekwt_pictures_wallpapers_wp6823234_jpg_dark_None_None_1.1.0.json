@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/wp6823234.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08080C",
+        "foreground": "#a4ebec",
+        "cursor": "#a4ebec"
+    },
+    "colors": {
+        "color0": "#08080C",
+        "color1": "#FB8B1D",
+        "color2": "#3534BE",
+        "color3": "#6828EA",
+        "color4": "#A01FF3",
+        "color5": "#DE0DC0",
+        "color6": "#3FA1AE",
+        "color7": "#a4ebec",
+        "color8": "#72a4a5",
+        "color9": "#FB8B1D",
+        "color10": "#3534BE",
+        "color11": "#6828EA",
+        "color12": "#A01FF3",
+        "color13": "#DE0DC0",
+        "color14": "#3FA1AE",
+        "color15": "#a4ebec"
+    }
+}

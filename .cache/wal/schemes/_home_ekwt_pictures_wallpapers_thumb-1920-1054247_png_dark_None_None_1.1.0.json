@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/thumb-1920-1054247.png",
+    "alpha": "100",
+    "special": {
+        "background": "#342611",
+        "foreground": "#9fc5be",
+        "cursor": "#9fc5be"
+    },
+    "colors": {
+        "color0": "#342611",
+        "color1": "#FE6A06",
+        "color2": "#846B45",
+        "color3": "#1E8477",
+        "color4": "#2D816F",
+        "color5": "#528769",
+        "color6": "#DC9E39",
+        "color7": "#9fc5be",
+        "color8": "#6f8985",
+        "color9": "#FE6A06",
+        "color10": "#846B45",
+        "color11": "#1E8477",
+        "color12": "#2D816F",
+        "color13": "#528769",
+        "color14": "#DC9E39",
+        "color15": "#9fc5be"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/Tower-fd7c7578-3a21-4e96-944c-ea37d2df9485.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010205",
+        "foreground": "#a2cfea",
+        "cursor": "#a2cfea"
+    },
+    "colors": {
+        "color0": "#010205",
+        "color1": "#034F8E",
+        "color2": "#185AA5",
+        "color3": "#3F4BA7",
+        "color4": "#026DB2",
+        "color5": "#976FC6",
+        "color6": "#0D9BDA",
+        "color7": "#a2cfea",
+        "color8": "#7190a3",
+        "color9": "#034F8E",
+        "color10": "#185AA5",
+        "color11": "#3F4BA7",
+        "color12": "#026DB2",
+        "color13": "#976FC6",
+        "color14": "#0D9BDA",
+        "color15": "#a2cfea"
+    }
+}

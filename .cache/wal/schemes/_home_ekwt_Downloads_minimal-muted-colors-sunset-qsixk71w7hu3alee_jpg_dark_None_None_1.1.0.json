@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/Downloads/minimal-muted-colors-sunset-qsixk71w7hu3alee.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#482541",
+        "foreground": "#c5cfdf",
+        "cursor": "#c5cfdf"
+    },
+    "colors": {
+        "color0": "#482541",
+        "color1": "#C07380",
+        "color2": "#7D93B8",
+        "color3": "#8393B9",
+        "color4": "#A38DA2",
+        "color5": "#8A9FC1",
+        "color6": "#97B6D5",
+        "color7": "#c5cfdf",
+        "color8": "#89909c",
+        "color9": "#C07380",
+        "color10": "#7D93B8",
+        "color11": "#8393B9",
+        "color12": "#A38DA2",
+        "color13": "#8A9FC1",
+        "color14": "#97B6D5",
+        "color15": "#c5cfdf"
+    }
+}

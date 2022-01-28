@@ -1,0 +1,21 @@
+set $wallpaper /home/ekwt/Downloads/163972-space_nasa_logo_japanese-3840x2160.png
+
+set $background #101216
+set $foreground #e2e0e1
+
+set $color0 #101216
+set $color1 #D03060
+set $color2 #F03269
+set $color3 #C74E72
+set $color4 #C86E89
+set $color5 #A1A1A4
+set $color6 #DEA8B9
+set $color7 #e2e0e1
+set $color8 #9e9c9d
+set $color9 #D03060
+set $color10 #F03269
+set $color11 #C74E72
+set $color12 #C86E89
+set $color13 #A1A1A4
+set $color14 #DEA8B9
+set $color15 #e2e0e1

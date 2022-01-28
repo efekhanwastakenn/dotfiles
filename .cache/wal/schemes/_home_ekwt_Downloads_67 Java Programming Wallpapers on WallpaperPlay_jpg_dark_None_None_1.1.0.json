@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/Downloads/67 Java Programming Wallpapers on WallpaperPlay.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050E14",
+        "foreground": "#c6c4c7",
+        "cursor": "#c6c4c7"
+    },
+    "colors": {
+        "color0": "#050E14",
+        "color1": "#595A63",
+        "color2": "#A01D1B",
+        "color3": "#C14A28",
+        "color4": "#708B76",
+        "color5": "#AB9F56",
+        "color6": "#717587",
+        "color7": "#c6c4c7",
+        "color8": "#8a898b",
+        "color9": "#595A63",
+        "color10": "#A01D1B",
+        "color11": "#C14A28",
+        "color12": "#708B76",
+        "color13": "#AB9F56",
+        "color14": "#717587",
+        "color15": "#c6c4c7"
+    }
+}

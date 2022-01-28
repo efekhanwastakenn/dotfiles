@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ekwt/Downloads/163972-space_nasa_logo_japanese-3840x2160.png"
+let background = "#101216"
+let foreground = "#e2e0e1"
+let cursor     = "#e2e0e1"
+
+" Colors
+let color0  = "#101216"
+let color1  = "#D03060"
+let color2  = "#F03269"
+let color3  = "#C74E72"
+let color4  = "#C86E89"
+let color5  = "#A1A1A4"
+let color6  = "#DEA8B9"
+let color7  = "#e2e0e1"
+let color8  = "#9e9c9d"
+let color9  = "#D03060"
+let color10 = "#F03269"
+let color11 = "#C74E72"
+let color12 = "#C86E89"
+let color13 = "#A1A1A4"
+let color14 = "#DEA8B9"
+let color15 = "#e2e0e1"

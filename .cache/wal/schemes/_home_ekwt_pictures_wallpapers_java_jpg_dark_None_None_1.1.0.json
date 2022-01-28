@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/java.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1422",
+        "foreground": "#e0e1e5",
+        "cursor": "#e0e1e5"
+    },
+    "colors": {
+        "color0": "#0F1422",
+        "color1": "#50596E",
+        "color2": "#6D7588",
+        "color3": "#817E8B",
+        "color4": "#7B8493",
+        "color5": "#9297A1",
+        "color6": "#B6BCC7",
+        "color7": "#e0e1e5",
+        "color8": "#9c9da0",
+        "color9": "#50596E",
+        "color10": "#6D7588",
+        "color11": "#817E8B",
+        "color12": "#7B8493",
+        "color13": "#9297A1",
+        "color14": "#B6BCC7",
+        "color15": "#e0e1e5"
+    }
+}

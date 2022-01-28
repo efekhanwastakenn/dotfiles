@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/Downloads/163972-space_nasa_logo_japanese-3840x2160.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181c21",
+        "foreground": "#c5c6c7",
+        "cursor": "#c5c6c7"
+    },
+    "colors": {
+        "color0": "#181c21",
+        "color1": "#7b8eaa",
+        "color2": "#9b9eaa",
+        "color3": "#c3c2c3",
+        "color4": "#af7692",
+        "color5": "#ab3b61",
+        "color6": "#c62e5a",
+        "color7": "#c5c6c7",
+        "color8": "#515458",
+        "color9": "#7b8eaa",
+        "color10": "#9b9eaa",
+        "color11": "#c3c2c3",
+        "color12": "#af7692",
+        "color13": "#ab3b61",
+        "color14": "#c62e5a",
+        "color15": "#c5c6c7"
+    }
+}

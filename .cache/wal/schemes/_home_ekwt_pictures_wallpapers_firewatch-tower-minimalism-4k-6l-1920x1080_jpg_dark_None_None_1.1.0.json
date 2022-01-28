@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/firewatch-tower-minimalism-4k-6l-1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150f27",
+        "foreground": "#a8dce6",
+        "cursor": "#a8dce6"
+    },
+    "colors": {
+        "color0": "#150f27",
+        "color1": "#2968D0",
+        "color2": "#5D62D7",
+        "color3": "#9958E5",
+        "color4": "#278DB7",
+        "color5": "#2C9BCC",
+        "color6": "#59A6D9",
+        "color7": "#a8dce6",
+        "color8": "#759aa1",
+        "color9": "#2968D0",
+        "color10": "#5D62D7",
+        "color11": "#9958E5",
+        "color12": "#278DB7",
+        "color13": "#2C9BCC",
+        "color14": "#59A6D9",
+        "color15": "#a8dce6"
+    }
+}

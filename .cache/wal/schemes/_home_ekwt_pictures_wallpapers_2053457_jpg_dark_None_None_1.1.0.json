@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/2053457.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050305",
+        "foreground": "#f6ec8b",
+        "cursor": "#f6ec8b"
+    },
+    "colors": {
+        "color0": "#050305",
+        "color1": "#CDB72A",
+        "color2": "#FDDC01",
+        "color3": "#FDDC01",
+        "color4": "#FEE60D",
+        "color5": "#DAC625",
+        "color6": "#EBD228",
+        "color7": "#f6ec8b",
+        "color8": "#aca561",
+        "color9": "#CDB72A",
+        "color10": "#FDDC01",
+        "color11": "#FDDC01",
+        "color12": "#FEE60D",
+        "color13": "#DAC625",
+        "color14": "#EBD228",
+        "color15": "#f6ec8b"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/minimal-mojave-day-gi-1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#38281a",
+        "foreground": "#b4c6d8",
+        "cursor": "#b4c6d8"
+    },
+    "colors": {
+        "color0": "#38281a",
+        "color1": "#68798E",
+        "color2": "#4C76A1",
+        "color3": "#537CA5",
+        "color4": "#5C83AA",
+        "color5": "#6B90B4",
+        "color6": "#7996B0",
+        "color7": "#b4c6d8",
+        "color8": "#7d8a97",
+        "color9": "#68798E",
+        "color10": "#4C76A1",
+        "color11": "#537CA5",
+        "color12": "#5C83AA",
+        "color13": "#6B90B4",
+        "color14": "#7996B0",
+        "color15": "#b4c6d8"
+    }
+}

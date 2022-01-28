@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ekwt/pictures/wallpapers/sunset-abstract-minimalist-minimalism-y7154.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0c18",
+        "foreground": "#f5e0a5",
+        "cursor": "#f5e0a5"
+    },
+    "colors": {
+        "color0": "#0f0c18",
+        "color1": "#973F52",
+        "color2": "#D5296B",
+        "color3": "#FE2C77",
+        "color4": "#FB6073",
+        "color5": "#AE9251",
+        "color6": "#FCA169",
+        "color7": "#f5e0a5",
+        "color8": "#ab9c73",
+        "color9": "#973F52",
+        "color10": "#D5296B",
+        "color11": "#FE2C77",
+        "color12": "#FB6073",
+        "color13": "#AE9251",
+        "color14": "#FCA169",
+        "color15": "#f5e0a5"
+    }
+}
